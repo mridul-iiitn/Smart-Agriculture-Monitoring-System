@@ -1,4 +1,4 @@
-## Smart-Agriculture-Monitoring-System
+# Smart-Agriculture-Monitoring-System
 
 This project is a Smart-Agriculture-Monitoring-System using the ESP32 microcontroller, designed to track soil moisture, temperature, and humidity, as well as detect motion using a PIR sensor. The system integrates with the Blynk IoT platform for remote monitoring and control.
 
